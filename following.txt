@@ -1,13 +1,3 @@
-7567812,grkn
-10809412,rakyll
-7170892,onurka
-40072431,uhrkumru
-21911778,umutgokbayrak
-10759212,sarp
-54159249,mustafaakin
-16626982,esesci
-79979068,ardendertat
-376825877,TwitterOSS
 100206618,sahinbalkan
 113419064,golang
 22455722,_rsc
